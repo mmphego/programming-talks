@@ -470,7 +470,7 @@ approachable than it actually is, and that is a good thing.
 
 #### Python
 (There is a good list of talks about Python to be found [here](https://github.com/s16h/py-must-watch))
-* [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich**
+* ~~[Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) [00:27:29] by **Jack Diederich**~~
 * [Super Advanced Python](http://www.youtube.com/watch?v=u2KZJzoz-qI) [01:38:56] by **Raymond Chandler** (2013)
 * [Python 3 Metaprogramming](https://www.youtube.com/watch?v=sPiWg5jSoZI) [03:24:00] by **David Beazley** (2013)
 * [Discovering Python](https://www.youtube.com/watch?v=RZ4Sn-Y7AP8) [00:47:50] by **David Beazley** (2014)
@@ -519,6 +519,7 @@ approachable than it actually is, and that is a good thing.
 * [Python and Johnny Cash](https://www.youtube.com/watch?v=L3j2qw9XZCc) [00:43:15] by **James Powell** (2016)
 * [Side Effects are a Public API](https://www.youtube.com/watch?v=D37dc9EoFus) [00:38:26] by **Christopher Armstrong** (2015)
 * [Removing Python's GIL: The Gilectomy](https://www.youtube.com/watch?v=P3AyI_u66Bw) [00:32:06] by **Larry Hastings** (2016)
+* ~~[Python's Infamous GIL](https://www.youtube.com/watch?v=KVKufdTphKs) [00:36:47] by **Larry Hastings** (2016)~~
 * [Finding closures with closures](https://www.youtube.com/watch?v=E9wS6LdXM8Y) [00:31:05] by **Thomas Ballinger** (2016)
 * [Statistics for Hackers](https://www.youtube.com/watch?v=Iq9DzN6mvYA) [00:40:44] by **Jake Vanderplas** (2016)
 * [Machete-mode debugging: Hacking your way out of a tight spot](https://www.youtube.com/watch?v=bAcfPzxB3dk) [00:35:13] by **Ned Batchelder** (2016)
@@ -527,6 +528,11 @@ approachable than it actually is, and that is a good thing.
 * [The Dictionary Even Mightier](https://www.youtube.com/watch?v=66P5FMkWoVU) [00:47:21] by **Brandon Rhodes** (2017)
 * [Grok the GIL - Write Fast And Thread Safe Python](https://www.youtube.com/watch?v=7SSYhuk5hmc) [00:41:29] by **A. Jesse Jiryu Davis** (2017)
 * [The Python Visualization Landscape](https://www.youtube.com/watch?v=FytuB8nFHPQ) [00:33:30] by **Jake VanderPlas** (2017)
+* ~~[So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4) [01:52:10] by **James Powell** (2017)~~
+* ~~[Software Design Patterns in Python](https://www.youtube.com/watch?v=CClmNogzfdA) [00:23:53] by **Peter Ullrich** (2017)~~
+* ~~[Top To Down, Left To Right (aka What Do You Not Know You Do Not Know About Python?)](https://www.youtube.com/watch?v=DlgbPLvBs30) [00:42:57] by **James Powell** (2018)~~
+* ~~[Dynamic Code Instrumentation with Hacked Interpreters](https://www.youtube.com/watch?v=SxPf_pmQoYA) [00:37:36] by **James Powell** (2018)~~
+* ~~[More Generators](https://www.youtube.com/watch?v=XEn_99daJro) [00:40:07] by **James Powell** (2018)~~
 
 #### Racket
 * [Generic Collections: One Interface to Rule Them All](https://www.youtube.com/watch?v=JUD_JwG0alg) [00:18:26] by **Alexis King** (2015)
