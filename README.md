@@ -527,6 +527,7 @@ approachable than it actually is, and that is a good thing.
 * [Flask for Fun and Profit](https://www.youtube.com/watch?v=1ByQhAM5c1I) [01:01:23] by **Armin Ronacher** (2016)
 * [The Dictionary Even Mightier](https://www.youtube.com/watch?v=66P5FMkWoVU) [00:47:21] by **Brandon Rhodes** (2017)
 * [Grok the GIL - Write Fast And Thread Safe Python](https://www.youtube.com/watch?v=7SSYhuk5hmc) [00:41:29] by **A. Jesse Jiryu Davis** (2017)
+* [TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM) [01:03:54] by **Ian Cooper** (2017)
 * [The Python Visualization Landscape](https://www.youtube.com/watch?v=FytuB8nFHPQ) [00:33:30] by **Jake VanderPlas** (2017)
 * ~~[So you want to be a Python expert?](https://www.youtube.com/watch?v=cKPlPJyQrt4) [01:52:10] by **James Powell** (2017)~~
 * ~~[Software Design Patterns in Python](https://www.youtube.com/watch?v=CClmNogzfdA) [00:23:53] by **Peter Ullrich** (2017)~~
